@@ -1,3 +1,10 @@
 body{
     background-color: black;
+    color: white;
+}
+
+h2{
+    background-color: blue;
+    color: red;
+    border: 9px solid green;
 }

@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+button{
+    background-color: red;
+    color: white;
+}
+
+#div1{
+    background-color: red;
+    color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+#mode{
+    color: white;
+    margin: 40px;
+}
+
+.darkMode{
+    background-color: black;
+}
+
+.lightMode{
+    background-color: white;
+}
