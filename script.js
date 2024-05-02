@@ -195,7 +195,7 @@ arr.shift();    // shift() deletes and returns the first element of the array
 console.log(arr.slice(1,2));    //last index not considerd
 
 //splice() changes original array
-arr.splice(1, 1, 2, 6, 9, 900);
+arr.splice(1, 1, 2, 6, 9, 900); //(start, deletecount, item1, item2....);
 console.log(arr);
 
 
