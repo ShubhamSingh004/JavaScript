@@ -187,9 +187,9 @@ console.log(arr.push(2));   //returns the new length
 console.log(arr.toString());
 arr.concat([2,3,4,5,6]);
 
+arr.shift();    // shift() deletes and returns the first element of the array
 console.log(arr.unshift(9.11)); //unshift() adds to the start of the array
 console.log(arr);
-arr.shift();    // shift() deletes and returns the first element of the array
 
 
 console.log(arr.slice(1,2));    //last index not considerd
